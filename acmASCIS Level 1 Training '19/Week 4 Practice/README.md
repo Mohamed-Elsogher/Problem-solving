@@ -1,3 +1,4 @@
-# week Topics :
+# week Topics 
 Binary search 
+
 Ternary search
