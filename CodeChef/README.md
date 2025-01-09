@@ -1,2 +1,2 @@
 # CodeChef 
-Collection of Data structures solutions (Free version)
+Data strucure and Algorithm course (Free version)
