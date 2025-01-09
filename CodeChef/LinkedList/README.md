@@ -20,4 +20,9 @@ The last node is called the tail node. As there is no node after the last node, 
 
 A null pointer does not point to any memory location.
 
-from freeCodeCamp.org
+# Time and Space Complexity :
+
+![image](https://github.com/user-attachments/assets/eb518ed8-cf6a-47a8-b5de-dc5741f7eb5d)
+
+
+from freeCodeCamp.org and GeeksforGeeks
