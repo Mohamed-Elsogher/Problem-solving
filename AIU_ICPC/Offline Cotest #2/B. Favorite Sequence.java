@@ -24,6 +24,22 @@ public class Main {
         If i is odd (1, 3, 5, ...) → Take an element from the right side.
         The left++ and right-- ensure that after each selection, the pointers move inward.
       */
+        
+        /*
+            Another solution :
+               int left = 0, right = n - 1;
+                while (left <= right) {
+                    if (left == right) {
+                        System.out.print(v[left]);
+                    } else {
+                        System.out.print(v[left] + " " + v[right] + " ");
+                    }
+                    left++;
+                    right--;
+            }
+            System.out.println(); 
+        }  
+        */
         for (int i = 0; i < n; i++) {
             System.out.print(ans[i] + " ");
         }
